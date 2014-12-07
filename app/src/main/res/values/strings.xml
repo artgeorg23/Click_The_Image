@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Click The Image</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="YOUR_SCORE">YOUR SCORE</string>
+    <string name="zero">0</string>
+    <string name="play">Play</string>
+    <string name="ybs">YOUR BEST SCORE</string>
+    <string name="btg">Back To Game</string>
+    <string name="ys">Your score</string>
+    <string name="NG">New Game</string>
+    <string name="S"> Score  </string>
+    <string name="i1">1</string>
+    <string name="i2">2</string>
+    <string name="i3">3</string>
+    <string name="i4">4</string>
+    <string name="i5">5</string>
+    <string name="i6">6</string>
+</resources>
